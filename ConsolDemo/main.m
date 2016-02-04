@@ -13,6 +13,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, Git!");
         NSLog(@"Second Git Push!");
+        NSLog(@"Third Git Push !");
     }
     return 0;
 }
