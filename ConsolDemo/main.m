@@ -12,6 +12,7 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
         NSLog(@"Hello, Git!");
+        NSLog(@"Second Git Push!");
     }
     return 0;
 }
